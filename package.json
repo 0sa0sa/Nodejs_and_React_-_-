@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.1"
   }
 }
